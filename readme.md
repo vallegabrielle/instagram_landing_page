@@ -9,8 +9,8 @@ INSTAGRAM
 <p align="center">Landing page from instagram.</p>
 
 <div>
-    <img src="./img/desktop.png" alt="desktop version from instagram landing page">
-    <img src="./img/mobile.png" alt="mobile version from instagram landing page">
+    <img align="center" src="./img/desktop.png" alt="desktop version from instagram landing page">
+    <img align="center" src="./img/mobile.png" alt="mobile version from instagram landing page">
 </div>
 
 ## Features
